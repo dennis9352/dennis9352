@@ -3,7 +3,8 @@ I'm Dennis and currently studying Node.js to be a junior developer. I was majori
   
 ⚡Language  
 <p align ="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
   
 🛠 Technical Skills  
 <p align ="left">
@@ -15,6 +16,7 @@ I'm Dennis and currently studying Node.js to be a junior developer. I was majori
 📘 Studying  
 <p align ="left">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennis9352&show_icons=true&theme=radical)
 
