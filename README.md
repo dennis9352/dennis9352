@@ -16,7 +16,7 @@ I'm Dennis and currently studying Node.js to be a junior developer. I was majori
 📘 Studying  
 <p align ="left">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennis9352&show_icons=true&theme=radical)
 
